@@ -1,0 +1,37 @@
+{
+    "name": "angular-uid",
+    "version": "0.1.0",
+    "main": "angular-uid.js",
+    "description": "Creating unique IDs in angular way",
+    "homepage": "https://github.com/easy-node/angular-uid",
+    "bugs": "https://github.com/easy-node/angular-uid/issues",
+    "author": {
+        "name": "Huei Tan",
+        "email": "huei90@gmail.com",
+        "url": "https://github.com/huei90"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/easy-node/angular-uid"
+    },
+    "files": [
+        "angular-uid.js"
+    ],
+    "keywords": [
+        "guid",
+        "uuid",
+        "uid",
+        "angularjs",
+        "angular uid"
+    ],
+    "licenses": [
+        {
+            "type": "MIT"
+        }
+    ],
+    "devDependencies": {
+        "grunt-contrib-jshint": "~0.6.0",
+        "grunt-contrib-nodeunit": "~0.2.0",
+        "grunt-contrib-watch": "~0.5.0"
+    }
+}

@@ -5,17 +5,19 @@
 Creating unique IDs in angular way
 
 ## Getting Started
-Install the module with: `npm install angular-uid`
+Install the module with: `npm install --save angular-uid`
 
 ## Usage
 ```javascript
 var guid = require('angular-uid');
-guid(); // 001
-guid(); // 002
-guid(); // 003
-guid(); // 004
-guid(); // 005
-
+guid(); // return 001
+guid(); // return 002
+guid(); // return 003
+guid(); // return 004
+guid(); // return 005
+...
+guid(); // return 00A
+...
 ```
 
 ## Release History

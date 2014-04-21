@@ -1,4 +1,6 @@
-# angular-uid [![Build Status](https://travis-ci.org/easy-node/angular-uid.svg?branch=v0.1.0)](https://travis-ci.org/easy-node/angular-uid)
+# angular-uid 
+[![Build Status](https://travis-ci.org/easy-node/angular-uid.svg?branch=v0.1.0)](https://travis-ci.org/easy-node/angular-uid)
+[![NPM version](https://badge.fury.io/js/angular-uid.svg)](http://badge.fury.io/js/angular-uid)
 
 Creating unique IDs in angular way
 

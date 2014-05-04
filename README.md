@@ -5,8 +5,9 @@
 Creating unique IDs in angular way
 
 ## Getting Started
-Install the module with: `npm install --save angular-uid`
+Install the module with npm : `npm install --save angular-uid`
 
+Install the module with bower : ` bower install angular-uid `
 ## Usage
 ```javascript
 var guid = require('angular-uid');
@@ -24,4 +25,4 @@ guid(); // return 00A
 0.1.0 First Release
 
 ## License
-Copyright (c) 2014 Huei Tan. Licensed under the MIT license.
+Copyright (c) 2014 [Huei Tan](https://github.com/huei90). Licensed under the MIT license.

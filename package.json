@@ -15,7 +15,8 @@
         "url": "https://github.com/easy-node/angular-uid"
     },
     "files": [
-        "angular-uid.js"
+        "angular-uid.js",
+        "browser.js"
     ],
     "keywords": [
         "guid",
@@ -35,6 +36,7 @@
         "grunt-contrib-watch": "~0.5.0"
     },
     "scripts": {
-        "test": "grunt"
+        "test": "grunt",
+        "browser": "browserify angular-uid.js > browser.js"
     }
 }

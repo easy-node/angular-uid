@@ -25,5 +25,7 @@ guid(); // return 00A
 ## Release History
 0.1.0 First Release
 
+0.1.1 Support browser.js
+
 ## License
 Copyright (c) 2014 [Huei Tan](https://github.com/huei90). Licensed under the MIT license.
